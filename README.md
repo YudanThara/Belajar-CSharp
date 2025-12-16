@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="assets/csharp-banner.jng" alt="Banner C#" width="100%">
+  <br>
+</div>
+
 # 🚀 Belajar C# (C-Sharp)
 
 Selamat datang di repository belajar saya! 👋
