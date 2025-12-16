@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Belajar-CSharp/assets/csharp-banner.jpg" alt="Banner C#" width="100%">
+  <img src="assets/csharp-banner.jpg" alt="Banner C#" width="100%">
   <br>
 </div>
 
