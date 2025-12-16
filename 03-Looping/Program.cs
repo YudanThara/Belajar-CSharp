@@ -13,7 +13,7 @@ namespace Belajar_CSharp
             While_Loop();
             Do_While_Loop();
             Foreach_Loop();
-            Recursion(5);
+            Factorial(5);
 
             Console.WriteLine("\nTekan sembarang tombol untuk keluar...");
             Console.ReadKey();
@@ -65,12 +65,18 @@ namespace Belajar_CSharp
         }
 
 // ======== RECURSION ========
-        public static void Recursion(int n)
+        public static int Factorial(int n)
         {
-            if (n > 0)
+            Console.WriteLine("\nRecursion (Factorial):");
+            if (n == 0)
             {
-                Console.WriteLine("Nilai n: " + n);
-                Recursion(n - 1);
+                return 1;
+            }
+            else
+            {
+                int result = n * Factorial(n - 1);
+                Console.WriteLine("Factorial(" + n + ") = " + result);
+                return result;
             }
         }
     }
