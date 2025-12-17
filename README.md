@@ -16,11 +16,16 @@ Saya mengurutkan materi berdasarkan topik pembelajaran:
 
 | No | Topik | Deskripsi Singkat |
 | :--- | :--- | :--- |
-| 01 | *Biodata* | Pengenalan dasar Console, String, dan Output. |
-| 02 | *Decision* | Penggunaan If-Else dan Switch Case. |
-| 03 | *Looping* | Penggunaan For, While, Do While, Foreach Loop |
-| 04 | *Array* | (Coming Soon) Penyimpanan data list. |
-| .. | Lanjut... | Materi berikutnya. |
+| 01 | **Biodata** | Pengenalan dasar Console, String, dan Output. |
+| 02 | **Decision** | Penggunaan If-Else dan Switch Case. |
+| 03 | **Looping** | Penggunaan For, While, Do While, Foreach Loop. |
+| 04 | **Exception Handling** | Penanganan error dengan Try, Catch, dan Finally. |
+| 05 | **Array** | Penyimpanan kumpulan data dengan indeks tetap. |
+| 06 | **Queues** | Struktur data antrean (FIFO - First In First Out). |
+| 07 | **Stack** | Struktur data tumpukan (LIFO - Last In First Out). |
+| 08 | **LinkedList** | Penyimpanan data berantai (Node) yang dinamis. |
+| 09 | **Intro OOP** | Pengenalan Class, Object, dan Attribute dasar. |
+| 10 | **OOP Separate File** | Penerapan Class pada file terpisah (Namespace). |
 
 ## 🛠 Tools & Lingkungan
 Meskipun materi ini dipelajari dengan gaya klasik (untuk kebutuhan Lab Kampus), saya menjalankannya di lingkungan modern:
