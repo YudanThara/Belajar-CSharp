@@ -9,16 +9,23 @@ namespace Belajar_CSharp
     {
     static void Main(string[] args)
         {
-        Mahasiswa mhs1 = new Mahasiswa();
+        Hero mc = new Hero();
 
-        mhs1.SetNama("Yudan Prihantara");
-        mhs1.SetUmur(19);
+        // Percobaan 1: Normal
+        mc.HP = 80;  // Masuk ke 'set', dicek if-else, lolos. _hp jadi 80.
+        Console.WriteLine(mc.HP); // Output: 80
 
-        Console.WriteLine("Data Mahasiswa:");
-        Console.WriteLine("Nama : " + mhs1.GetNama());
-        Console.WriteLine("Umur : " + mhs1.GetUmur());
+        // Percobaan 2: Ngawur Minus
+        mc.HP = -50; 
+        // Masuk 'set', kena validasi (value < 0). 
+        // Output: ⚠️ Error: Darah gak boleh minus! Dianggap 0.
+        // Nilai _hp sekarang jadi 0.
 
-        Console.ReadLine();
+        // Percobaan 3: Ngawur Kebanyakan
+        mc.HP = 5000;
+        // Masuk 'set', kena validasi (value > 100).
+        // Output: ⚠️ Error: Overheal! Mentok di 100.
+        // Nilai _hp sekarang jadi 100.
         }
     }
 }
