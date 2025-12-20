@@ -4,7 +4,7 @@ namespace Belajar_CSharp.Monsters.Slimes
 {
     public class SlimeEs : Slime
     {
-        public void Bakar()
+        public void Beku()
         {
             Console.WriteLine(Nama + " menurunkan suhu area sekitar! ❄️");
         }
