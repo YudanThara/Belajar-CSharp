@@ -26,6 +26,14 @@ Saya mengurutkan materi berdasarkan topik pembelajaran:
 | 08 | **LinkedList** | Penyimpanan data berantai (Node) yang dinamis. |
 | 09 | **Intro OOP** | Pengenalan Class, Object, dan Attribute dasar. |
 | 10 | **OOP Separate File** | Penerapan Class pada file terpisah (Namespace). |
+| 11 | **OOP Encapsulation** | Proteksi data menggunakan Private field dan Public Property (Get/Set). |
+| 12 | **OOP Inheritance** | Konsep pewarisan sifat dari Class Induk (Parent) ke Class Anak (Child). |
+| 13 | **Inheritance Lanjut** | Pewarisan bertingkat (Multilevel) dan pemisahan file Class. |
+| 14 | **Structure & Namespace** | Manajemen file OOP menggunakan Folder dan Namespace yang rapi. |
+| 15 | **OOP Polymorphism** | Mengubah perilaku method Induk menggunakan `virtual` dan `override`. |
+| 16 | **OOP Abstraction** | Penggunaan Abstract Class sebagai kerangka dasar (Wajib Override). |
+| 17 | **OOP Interface** | Kontrak kemampuan (Skill) yang bisa diterapkan pada banyak Class berbeda. |
+| 18 | **OOP Gabungan** | Proyek latihan menggabungkan Encapsulation, Inheritance, Polymorphism, & Interface. |
 
 ## 🛠 Tools & Lingkungan
 Meskipun materi ini dipelajari dengan gaya klasik (untuk kebutuhan Lab Kampus), saya menjalankannya di lingkungan modern:
