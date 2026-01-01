@@ -40,7 +40,7 @@ Meskipun materi ini dipelajari dengan gaya klasik (untuk kebutuhan Lab Kampus), 
 * *Bahasa:* C#
 * *Framework:* .NET 10 (LTS)
 * *Editor:* Visual Studio Code
-* *OS:* Windows
+* *OS:* Windows, Linux Fedora
 
 ## 📝 Catatan Penting
 Kodingan di sini sebagian besar menggunakan *Style Legacy* (Namespace/Class/Main) untuk menyesuaikan dengan kurikulum kampus yang menggunakan Visual Studio 2012, agar kompatibel saat ujian Lab.
